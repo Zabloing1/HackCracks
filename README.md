@@ -17,3 +17,6 @@ Impact Client
 <br>
 LiquidBounce Client
 
+check out the releases page:
+https://github.com/Zabloing1/HackCracks/releases
+
