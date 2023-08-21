@@ -1,6 +1,6 @@
 HACK CRACK COLLECTION
 <br>
-A collection of Minecraft Hack Clients that are normally paid clients (some are free for anyone, i just thought id make a compilation of all of the good clients)
+A collection of Minecraft Hack Clients that are normally paid clients
 
 <br>
 there is a good few clients that are in the collection:
@@ -13,9 +13,8 @@ Vape Lite
 <br>
 Future Client
 <br>
-Impact Client
+Vape V3
 <br>
-LiquidBounce Client
 
 check out the releases page:
 https://github.com/Zabloing1/HackCracks/releases
